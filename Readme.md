@@ -1,1 +1,1 @@
-# Motion on an inclined plane
+# Motion on an incline plane
